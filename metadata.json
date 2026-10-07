@@ -1,0 +1,6 @@
+{
+  "name": "EcoCollect",
+  "description": "Real-time e-waste pickup scheduling, staff dispatch, and environmental agency analytics platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
